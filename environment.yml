@@ -1,4 +1,4 @@
-name: assignment12
+name: assignment6
 channels:
   - conda-forge
 dependencies:
